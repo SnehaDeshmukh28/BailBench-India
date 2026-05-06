@@ -171,7 +171,7 @@ This code is released under the MIT License. The IndianBailJudgments-1200 datase
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact:
-- Sneha Deshmukh: sneha.deshmukh@dmce.ac.in
+- Sneha Deshmukh: deshmusn@gmail.com
 
 ## Acknowledgments
 
