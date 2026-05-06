@@ -1,0 +1,17 @@
+You are analyzing an Indian court bail case.
+Based only on the information provided,
+predict whether bail was GRANTED or REJECTED.
+
+Case Details:
+- Court: {court}
+- Crime Type: {crime_type}
+- Bail Type: {bail_type}
+- Accused Name: {accused_name}
+- Prior Cases: {prior_cases}
+- Case Facts: {facts}
+
+Instructions:
+- Reply with exactly one word: GRANTED or REJECTED
+- Do not explain your answer
+
+Your prediction:

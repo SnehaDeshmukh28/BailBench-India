@@ -1,0 +1,14 @@
+You are analyzing an Indian court bail case.
+
+Case Facts: {facts}
+Legal Issues: {legal_issues}
+
+Task: List the IPC or special act sections
+(e.g. NDPS, POCSO) mentioned or directly
+relevant to this case.
+
+Reply with ONLY a comma-separated list.
+Example: 302, 307, 34
+If none identifiable, reply: NONE
+
+Sections:
