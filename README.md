@@ -96,6 +96,12 @@ Measures prediction stability under demographic name swaps:
 
 Evaluates legal citation accuracy by comparing model-generated IPC sections against ground truth annotations.
 
+**Note:** Running this evaluation requires API keys for:
+- OpenAI (GPT-4o, GPT-4o-mini)
+- Meta (Llama-4-Scout, Llama-3.3-70B)
+- Alibaba (Qwen-3-32B)
+- Mistral AI (Mistral-Large)
+
 ## Metrics
 
 - **Accuracy** with 1000-sample bootstrap 95% confidence intervals
